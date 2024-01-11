@@ -51,3 +51,7 @@ OAS(OpenApi Spec)으로 api명세를 작성하고 openapi3에 OAS파일을 적�
 구현 초기: openapi3 + oas
 구현 중/후기: openapi3 + spring-web
 
+## 초기 목데이터를 제공할 수 있다
+목서버를 따로 구성하지 않고도 목데이터를 제공할 수 있는 방법이 존재한다.
+oas 규격에 sample 필드가 있다. 이 필드에 테스트 데이터를 기재한다.
+
